@@ -1,11 +1,26 @@
 .btn-ref{
-    border-radius: 10px;
-    font-size:150%;
+    border-radius: 6px;
+    font-size:90%;
     box-shadow: none;
 }
 
 .info{
     background-color: cornflowerblue;
+    color: white;
+}
+
+.success{
+    background-color: rgb(27, 87, 0);
+    color: white;
+}
+
+.warning{
+    background-color: rgb(136, 134, 10);
+    color: white;
+}
+
+.error{
+    background-color: rgb(119, 13, 13);
     color: white;
 }
 
@@ -22,8 +37,13 @@
 }
 
 .text-info{
-    background-color: aliceblue;
+    background-color: rgba(128, 225, 255, 0.212);
     margin: auto;
+}
+
+.li-nav-def{
+    margin: 3%;
+    font-family: monospace;
 }
 
 hr{
