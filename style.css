@@ -1,0 +1,30 @@
+.btn-ref{
+    border-radius: 10px;
+    font-size:150%;
+    box-shadow: none;
+}
+
+.info{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.main-content{
+    font-size: larger;
+}
+
+.centered{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text-info{
+    background-color: aliceblue;
+    margin: auto;
+}
+
+hr{
+    margin-left: 15%;
+    margin-right: 15%;
+}
